@@ -11,6 +11,6 @@
 
 Este código carga un archivo llamado "cg_data.csv" utilizando la biblioteca Pandas de Python, convierte los datos a un diccionario de Python y luego a una cadena de JSON. A continuación, se convierte la cadena de JSON en un objeto de TypeScript, y se guarda en un archivo llamado "cg_data.ts". El objeto TypeScript generado tiene una interfaz denominada "LatestResponse" que define la estructura de los datos.
 
-## main.py
+## main.py
 
 El código proporcionado carga datos de CoinMarketCap y CoinGecko, y luego los guarda como archivos CSV. 
