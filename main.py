@@ -10,3 +10,6 @@ cg_data = getCoinGeckoData(amount_to_read)
 # Data to csv
 cmc_data.to_csv("cmc_data.csv")
 cg_data.to_csv("cg_data.csv")
+
+# Plot data
+plotData(cmc_data, cg_data)

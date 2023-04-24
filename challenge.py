@@ -115,7 +115,7 @@ def plotData(cmc_data, cg_data):
     )
 
     # Return the plotly figure
-    return fig
+    return fig.show()
 
 
 ### Section 4: Unified ranking

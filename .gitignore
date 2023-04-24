@@ -9,6 +9,9 @@ __pycache__/
 # CSV Files
 *.csv
 
+# Converter
+converter.py
+
 # Distribution / packaging
 .Python
 build/
